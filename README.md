@@ -57,7 +57,7 @@
 3) All the loan that fell into the each bucket were further divided based on the purpose of loan and were plotted
 4) Loan with 'Other' Purpose and loan amount greater than 25000 has the highest ration of defaulting.
 
-### LIBRARIES USED:
+#### LIBRARIES USED:
 - Seaborn & Matplotlib used to visualize and Pandas & Numpy were used for analysis.
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
